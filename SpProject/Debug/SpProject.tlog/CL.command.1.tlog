@@ -1,0 +1,6 @@
+^C:\USERS\DELL\SOURCE\REPOS\SPPROJECT\SPPROJECT\LIBRARYOPERATION.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"DEBUG\\" /Fd"DEBUG\VC142.PDB" /external:W3 /Gd /TP /wd4996 /analyze- /FC C:\USERS\DELL\SOURCE\REPOS\SPPROJECT\SPPROJECT\LIBRARYOPERATION.CPP
+^C:\USERS\DELL\SOURCE\REPOS\SPPROJECT\SPPROJECT\LIBRARYREPORT.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"DEBUG\\" /Fd"DEBUG\VC142.PDB" /external:W3 /Gd /TP /wd4996 /analyze- /FC C:\USERS\DELL\SOURCE\REPOS\SPPROJECT\SPPROJECT\LIBRARYREPORT.CPP
+^C:\USERS\DELL\SOURCE\REPOS\SPPROJECT\SPPROJECT\SOURCE.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"DEBUG\\" /Fd"DEBUG\VC142.PDB" /external:W3 /Gd /TP /wd4996 /analyze- /FC C:\USERS\DELL\SOURCE\REPOS\SPPROJECT\SPPROJECT\SOURCE.CPP
